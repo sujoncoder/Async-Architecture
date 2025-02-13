@@ -1,0 +1,24 @@
+{
+  "name": "async-architecture",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {
+    "start": "node callback.js",
+    "dev": "nodemon callback.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujoncoder/Async-Architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujoncoder/Async-Architecture/issues"
+  },
+  "homepage": "https://github.com/sujoncoder/Async-Architecture#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
