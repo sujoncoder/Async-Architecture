@@ -41,4 +41,6 @@ const certificate = () => {
 };
 
 
-enroll(() => progress(certificate));
+enroll(() => {
+    progress(certificate)
+});

@@ -50,7 +50,6 @@ const certificate = () => {
         }, 1000);
     })
 
-
     return promise;
 };
 

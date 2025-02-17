@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "callback.js",
   "scripts": {
-    "start": "node async-await.js",
-    "dev": "nodemon async-await.js"
+    "start": "node pizzaAsync.js",
+    "dev": "nodemon pizzaAsync.js"
   },
   "repository": {
     "type": "git",
